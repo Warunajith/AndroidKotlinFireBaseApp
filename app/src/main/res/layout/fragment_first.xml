@@ -23,7 +23,7 @@
         android:layout_height="wrap_content"
         android:ems="15"
         android:inputType="phone"
-        android:text="Phone no"
+        android:text="Phone Number"
         android:textSize="18dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
